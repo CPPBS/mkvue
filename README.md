@@ -46,6 +46,7 @@ views/About.vue
 
 <template>
   <h1>You did it!</h1>
+  <p>Here is something</p>
 </template>
 
 <style scoped>
