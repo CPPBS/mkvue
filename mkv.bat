@@ -17,6 +17,7 @@ for %%i in (%*) do (
         echo.
         echo ^<template^>
         echo   ^<h1^>You did it!^</h1^>
+        echo   ^<p^>Here is %%i^</p^>
         echo ^</template^>
         echo.
         echo ^<style scoped^>
